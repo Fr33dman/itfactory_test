@@ -14,3 +14,7 @@ docker run -dp 8000:8000 itfactory
 trade_poin - <int> - id торговой точки 
 longitude - <string> - долгота
 latitude - <string> - широта
+
+## Admin panel
+  
+логин пароль к админ панели - admin admin
